@@ -1,10 +1,5 @@
-
-
 # depth first search
-
-
 # Time Complexity : O(n)
-
 # space complexity : O(h)
 
 # Approach :
@@ -52,13 +47,10 @@ class Solution:
 
 # breadth first search
 
-
 # Time Complexity : O(n)
-
 # space complexity : O(n)
 
 # Approach :
-
 # use bfs
 # keep a boolean flag which keeps a track of the tree.
 # we compare the following values
